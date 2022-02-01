@@ -1,2 +1,2 @@
-# Control de Versones 
+# Control de Versiones 
 Computación Visual
